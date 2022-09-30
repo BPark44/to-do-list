@@ -4,7 +4,7 @@ This is my first attempt at building a to-do list
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![](Images/screenshot.jpg)
 
 
 ### Links
