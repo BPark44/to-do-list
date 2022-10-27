@@ -1,10 +1,10 @@
 ## Overview
 
-This is my first attempt at building a to-do list
+This is my first attempt at building a to-do list. I am going to be adding a delete and update features to this soon.
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![](Images/screenshot.jpg)
 
 
 ### Links
