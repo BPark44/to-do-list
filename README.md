@@ -1,18 +1,12 @@
 ## Overview
 
-This is my first attempt at building a to-do list. I am going to be adding a delete and update features to this soon.
+This is my first attempt at building a to-do list. This app has the ability to create, read and delete.
 
 ### Screenshot
 
 ![](Images/screenshot.jpg)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
